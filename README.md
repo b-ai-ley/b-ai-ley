@@ -1,7 +1,7 @@
 ## Hello!
-### I'm Bailey
+### My name is Bailey
 
-I'm a Data Scientist/Analyst
+I am a Data Scientist/Analyst
 
 My pronouns are She/Her
 
