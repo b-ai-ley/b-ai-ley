@@ -2,6 +2,7 @@
 ### I'm Bailey
 
 I'm a Data Scientist/Analyst
+
 My pronouns are She/Her
 
 Recruiters click <HERE> <!--    link to website portfolio   -->
