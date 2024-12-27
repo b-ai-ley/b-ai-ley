@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello!
+### I'm Bailey
+
+I'm a Data Scientist/Analyst
+My pronouns are She/Her
+
+Recruiters click <HERE> <!--    link to website portfolio   -->
+
+Poets click <HERE> <!--    link to poetry stuff ??   -->
 
 <!--
 **b-ai-ley/b-ai-ley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
