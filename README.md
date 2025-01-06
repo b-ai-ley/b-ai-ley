@@ -1,13 +1,22 @@
-## Hello!
-### My name is Bailey
+# Hello! I'm Bailey
 
-I am a Data Scientist/Analyst
+Data Scientist | Dumpling Poet | Machine Operator / Learning Researcher
 
-My pronouns are She/Her
+<!-- RECRUITERS CLICK [HERE](data/Bailey_Resume_2025.pdf) 
+have fun with it; make it say this when moused over?????????-->
 
-Recruiters click <HERE> <!--    link to website portfolio   -->
+View current [resume](data/Bailey_Resume_2025.pdf)
+<!-- View my current Data Scientist [resume](path/to/your/resume.pdf)
 
-Poets click <HERE> <!--    link to poetry stuff ??   -->
+and others??
+ -->
+
+<!-- Read some [poetry](data/Trauma_Dumpling.pdf)? 
+if trauma dumpling loses-->
+
+See some [Portfolio Projects](https://b-ai-ley.github.io/)
+<!-- and [College Project Demos](https://b-ai-ley.github.io/portfolio/demos)  -->
+on my [website](https://b-ai-ley.github.io/)!
 
 <!--
 **b-ai-ley/b-ai-ley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
